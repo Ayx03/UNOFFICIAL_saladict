@@ -327,7 +327,7 @@
     ]
   },
   "manifest_version": 2,
-  "homepage_url": "https://saladict.crimx.com/",
+  "homepage_url": "https://g.imayx.top/UNOFFICIAL_saladict/",
   "minimum_chrome_version": "55",
   "name": "__MSG_extension_name__",
   "short_name": "__MSG_extension_short_name__",
@@ -418,7 +418,7 @@
   "content_security_policy": "script-src 'self'; object-src 'self'",
   "applications": {
     "gecko": {
-      "id": "saladict@crimx.com",
+      "id": "UNOFFICIAL_ext-saladict_whycantI_reusethisID@imayx.top",
       "strict_min_version": "67.0"
     }
   }

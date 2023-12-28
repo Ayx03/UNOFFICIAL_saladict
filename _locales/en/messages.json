@@ -1,7 +1,7 @@
 {
   "extension_name": {
     "description": "Extension name",
-    "message": "Saladict - Pop-up Dictionary and Page Translator"
+    "message": "[Unofficial] Saladict - Pop-up Dictionary"
   },
   "extension_short_name": {
     "description": "Extension short name",
@@ -9,7 +9,7 @@
   },
   "extension_description": {
     "description": "Description of extension",
-    "message": "Saladict is an all-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching."
+    "message": "Saladict is an all-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching. This distribution is UNOFFICIAL. Remove it if you don't trust it."
   },
   "command_toggle_active": {
     "message": "Toggle inline translator"
